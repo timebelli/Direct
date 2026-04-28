@@ -1,10 +1,9 @@
 # NAME: Direct
 # AUTHOR: blacklotus
-# UPDATED: 2026-04-05
-# IP-CIDR: 1
-# DOMAIN-SUFFIX: 5
-# DOMAIN-KEYWORD: 1
-# TOTAL: 7
+
 IP-CIDR,142.171.48.223/32
 DOMAIN-SUFFIX,sh.frp.one
 DOMAIN-SUFFIX,timebelli.com
+DOMAIN-SUFFIX,api-huacloud.dev
+DOMAIN-KEYWORD,huacloud
+DOMAIN-KEYWORD,timebelli
