@@ -2,6 +2,7 @@
 # AUTHOR: blacklotus
 
 IP-CIDR,142.171.48.223/32
+IP-CIDR,179.255.108.175/32
 DOMAIN-SUFFIX,sh.frp.one
 DOMAIN-SUFFIX,timebelli.com
 DOMAIN-SUFFIX,api-huacloud.dev
